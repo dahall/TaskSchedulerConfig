@@ -13,3 +13,9 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("464ae5dd-6049-4a73-b07c-10cc1e3742f6")]
+[assembly: AssemblyDescription("https://github.com/dahall/TaskSchedulerConfig")]
+[assembly: AssemblyCompany("Open Source Community")]
+[assembly: AssemblyProduct("TaskSchedulerConfig")]
+[assembly: AssemblyCopyright("Copyright © 2017")]
+[assembly: AssemblyVersion("2.6.0.0")]
+[assembly: AssemblyFileVersion("2.6.0.0")]
