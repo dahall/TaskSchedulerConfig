@@ -1,5 +1,4 @@
-﻿
-namespace System.Runtime.InteropServices
+﻿namespace System.Runtime.InteropServices
 {
 	internal static class InteropUtil
 	{
