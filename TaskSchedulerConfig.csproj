@@ -19,7 +19,7 @@
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>C:\Users\dahall\Source\Repos\TaskSchedulerConfig\publish\</PublishUrl>
+    <PublishUrl>C:\Users\dahall\Documents\GitHubRepos\TaskSchedulerConfig\publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -31,10 +31,10 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/dahall/TaskSchedulerConfig/master/publish/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/dahall/TaskSchedulerConfig/master/publish/</UpdateUrl>
-    <SupportUrl>https://taskscheduler.codeplex.com</SupportUrl>
-    <ErrorReportUrl>https://taskscheduler.codeplex.com/documentation</ErrorReportUrl>
+    <SupportUrl>https://github.com/dahall/TaskSchedulerConfig</SupportUrl>
+    <ErrorReportUrl>https://github.com/dahall/TaskSchedulerConfig</ErrorReportUrl>
     <ProductName>Task Scheduler Config</ProductName>
-    <PublisherName>CodePlex Project</PublisherName>
+    <PublisherName>OpenSource Community</PublisherName>
     <SuiteName>Task Scheduler Managed Wrapper</SuiteName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
